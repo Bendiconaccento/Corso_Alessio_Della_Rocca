@@ -9,7 +9,7 @@ class Libro:
 
     def descrizione(self):                          # Restituisce la descrizione del libro
 
-        return f"Il libro {self.titolo} è stato scritto da {self.autore} e ha {self.pagine} pagine"
+        return f"Il libro {self.titolo} è stato scritto da {self.autore} e ha {self.pagine} pagine."
     
 libro = Libro("Il Gattopardo", "Tomasi Di Lampedusa", 299)
 print(libro.descrizione())                          # Printa la descrizione del libro
