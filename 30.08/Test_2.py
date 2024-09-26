@@ -1,0 +1,1 @@
+#Su python Crea una sistema ripetibile che dopo aver preso in input una parola la aggiunga a una lista, si deve ripetere tante volte quante l'utente richiede e poi stampare tutti gli elementi nella lista.
